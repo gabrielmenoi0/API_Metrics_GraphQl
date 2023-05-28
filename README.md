@@ -17,35 +17,11 @@
   <a href="#tecnicas-e-tecnologias-utilizadas">Geração de metricas de uso do serviço</a> •
 </div>
 
-[//]: # (## Descrição do Projeto)
+# __Servidor Métricas GraphQL__
+Este repositório contém um servidor GraphQL desenvolvido em Golang que permite coletar métricas de consultas de links encurtados.
 
-[//]: # ()
-[//]: # (<p align="justify">Aplicação Java com SPRING BOOT, desenvolvida na aula de Desenvolvimento avançado de Sistemas de Informação da 4a etapa do curso de Sistemas de informação da Univem.</p>)
-
-[//]: # (<p align="justify"> * API gerando HASH a partir da URL informada</p>)
-
-[//]: # (<p align="justify"> * Balanceador de carga &#40;Nginx&#41;</p>)
-
-[//]: # (<p align="justify"> * Cache &#40;spring-boot-starter-cache e Redis&#41;</p>)
-
-[//]: # (<p align="justify"> * Banco de dados &#40;H2&#41;</p>)
-
-
-
-[//]: # (## Próximos passos)
-
-[//]: # ()
-[//]: # (<div align="center">)
-
-[//]: # (  • <a href="#Descrição do Projeto">Migrar parra banco de dados MySql </a>•)
-
-[//]: # (  <a href="#tecnicas-e-tecnologias-utilizadas">Adicionar autenticação e proteção aos endpoints</a> •)
-
-[//]: # (  <a href="#abrir-e-rodar">Gerenciamento do cache</a> •)
-
-[//]: # (  <a href="#acesso-ao-projeto">Deploy na AWS</a> )
-
-[//]: # (</div>)
+## __Funcionalidade__
+O servidor GraphQL é projetado para coletar métricas de consultas de links encurtados, permitindo que você acompanhe o desempenho e a utilização de links encurtados em sua aplicação ou serviço API HASH.
 
 ## Integrantes da equipe
 <p align="justify">Gabriel Menoi - RA:602655</p>
