@@ -18,7 +18,7 @@
 </div>
 
 # __Servidor Métricas GraphQL__
-Este repositório contém um servidor GraphQL desenvolvido em Golang que permite coletar métricas de consultas de links encurtados.
+Este repositório contém um servidor GraphQL desenvolvido em Java que permite coletar métricas de consultas de links encurtados.
 
 ## __Funcionalidade__
 O servidor GraphQL é projetado para coletar métricas de consultas de links encurtados, permitindo que você acompanhe o desempenho e a utilização de links encurtados em sua aplicação ou serviço API HASH.
